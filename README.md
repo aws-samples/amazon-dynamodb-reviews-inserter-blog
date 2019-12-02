@@ -1,11 +1,6 @@
-## My Project
+## Getting Started with DynamoDB blog companion code
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+At date of publication will update with link to blog. Instructions for code use will be in blog post.
 
 ## License
 
