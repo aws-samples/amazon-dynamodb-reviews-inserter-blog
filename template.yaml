@@ -7,8 +7,10 @@ Metadata:
     Description: This application deploys a lambda function that is used to insert reviews into a table created during the "Getting Started with DynamoDB" blog post on the AWS Databases Blog
     Author: William Kalescky
     SpdxLicenseId: Apache-2.0
-    LicenseUrl: s3://kalescky-blog/LICENSE.txt
-    SourceCodeURL: 'https://aws-database-blog.s3.amazonaws.com/artifacts/getting_started_dynamodb/dynamodb-reviews-inserter-b1884b7f-e341-4641-a50d-459b56c3cc3b.zip' 
+    LicenseUrl: https://raw.githubusercontent.com/aws-samples/amazon-dynamodb-reviews-inserter-blog/master/LICENSE
+    SourceCodeURL: https://github.com/aws-samples/amazon-dynamodb-reviews-inserter-blog
+    HomePageURL: https://github.com/aws-samples/amazon-dynamodb-reviews-inserter-blog
+    ReadmeURL: https://raw.githubusercontent.com/aws-samples/amazon-dynamodb-reviews-inserter-blog/master/README.md
     SemanticVersion: 0.0.1
 Parameters:
     DynamoDBTableName:
